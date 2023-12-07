@@ -11,16 +11,20 @@
 
 <br>
 
+### About me
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<br>
 
 - Hi mi gente
 
 <hr>
 <p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&repeat=false&random=true&width=435&lines=technologies+that+I+know." alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,nodejs,ts,react,angular,nextjs,sqlite,mongodb" />
+  </a>
 </p>
 
 
