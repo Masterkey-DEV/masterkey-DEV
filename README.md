@@ -21,10 +21,10 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
 
-- desarrollador fulls-stack minimalista "aveces menos es mas".
+- desarrollador full-stack autodidacta con un enfoque minimalista "aveces menos es mas".
 - apasionado por la tecnologia y el dinero (por que no).
-- con un gran gusto por el el trbajo, por que sabes la otra opcion es  morirse de hambre y eso no es tan bueno.
-- de forma seria me apasional desarrollo ya que el solucionar problemas con unas cuantas lineas de codigo es muy satisfacorio.
+- me apasiona el desarrollo ya que el solucionar problemas con unas cuantas lineas de codigo de forma efectiva es muy satisfacorio.
+- me especializo en Javascript con sus distintos frameWorks Node,React,Next,Express,Mongodb...
 
 <hr>
 <p align="center" >
