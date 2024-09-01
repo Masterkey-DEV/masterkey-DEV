@@ -21,10 +21,10 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
 
-- desarrollador full-stack autodidacta con un enfoque minimalista "aveces menos es mas".
-- apasionado por la tecnologia y el dinero (por que no).
-- me apasiona el desarrollo ya que el solucionar problemas con unas cuantas lineas de codigo de forma efectiva es muy satisfacorio.
-- me especializo en Javascript con sus distintos frameWorks Node,React,Next,Express,Mongodb...
+- desarrollador full-stack autodidacta.
+- apasiona el desarrollo y a vanguardia en tecnologias de desarrollo agiles (amo tailwind).
+- me apasiona el desarrollo ya que el solucionar problemas superandome cada vez mas de forma efectiva es muy satisfacorio.
+- me especializo en Javascript con sus distintos frameWorks Node,React,Express,Mongodb... y algo de python
 
 <hr>
 <p align="center" >
