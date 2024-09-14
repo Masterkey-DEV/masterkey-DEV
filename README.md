@@ -25,6 +25,7 @@
 - apasiona el desarrollo y a vanguardia en tecnologias de desarrollo agiles (amo tailwind).
 - me apasiona el desarrollo ya que el solucionar problemas superandome cada vez mas de forma efectiva es muy satisfacorio.
 - me especializo en Javascript con sus distintos frameWorks Node,React,Express,Mongodb... y algo de python
+- actuamente estudiando ingenieria de sistemas en la universidad Antonio Jose Camacho en cali. 
 
 <hr>
 <p align="center" >
